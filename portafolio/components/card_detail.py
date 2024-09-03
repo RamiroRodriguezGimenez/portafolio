@@ -12,15 +12,17 @@ def card_detail(extra: Extra) -> rx.Component:
                     src=extra.image,
                     height=IMAGE_HEIGHT,
                     width="100%",
-                    object_fit="cover"
+                    object_fit="cover",
+                    mb=12
                 ),
-                pb=Size.DEFAULT.value
+                pb="current"
             ),
-            rx.text.strong(extra.title),
+            rx.text.strong(extra.title, mt="10px"),
             rx.text(
                 extra.description,
                 size=Size.SMALL.value,
-                color_scheme="gray"
+                color_scheme="gray",
+                mt="10px"
             )
         ),
         width="100%",

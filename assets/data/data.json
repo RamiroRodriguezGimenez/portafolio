@@ -1,6 +1,6 @@
 {
     "title": "Ramiro Rodriguez | Portafolio",
-    "description": "Soy Ramiro, posiblemente el mejor programador de la historia.",
+    "description": "Soy Ramiro, Programador Backend, Ingeniero Industrial, .",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Ramiro Rodriguez",
@@ -52,7 +52,7 @@
             "icon": "terminal",
             "title": "Accenture",
             "subtitle": "Programador backend",
-            "description": "Desarrollo de softaware. Resolucion de bugs. Soporte a compañeros. Colaboracion con el diseño",
+            "description": "Desarrollar softaware. Resolver bugs. Dar soporte a compañeros. Colaborar con el diseño",
             "date": "2022 - Actualidad"
         },
         {
@@ -65,29 +65,29 @@
         {
             "icon": "warehouse",
             "title": "Hawaii",
-            "subtitle": "Supervisor de logistica",
-            "description": "Supervisor de logistica en importante distribuidora. Idear procesos en funcion de las normas. Supervisor tanto de los procesos de deposito como de entrega.",
+            "subtitle": "Supervisor de logística",
+            "description": "Supervisor de logística en importante distribuidora. Idear procesos en función de las normas. Supervisor tanto de los procesos de depósito como de entrega.",
             "date": "2021 - 2022"
         },
         {
             "icon": "warehouse",
             "title": "Farmacias del Puente",
-            "subtitle": "Supervisor de logistica",
-            "description": "Supervisor de logistica en una cadena de farmacias. Crear procesos para la gestion de stock. Generar informes que permitan encontrar puntos de mejora. Proponer y llevar a cavo mejoras en los procesos.",
+            "subtitle": "Supervisor de logística",
+            "description": "Supervisor de logística en una cadena de farmacias. Crear procesos para la gestión de stock. Generar informes que permitan encontrar puntos de mejora. Proponer y llevar a cavo mejoras en los procesos.",
             "date": "2020 - 2021"
         },
         {
             "icon": "flask-round",
-            "title": "Laboratorio de Analisis Instrumental -Universidad Nacional de Cuyo",
+            "title": "Laboratorio de Análisis Instrumental - Universidad Nacional de Cuyo",
             "subtitle": "Responsable de Muestreo",
-            "description": "Gestionar, organizar y ejecutar muestreos. Realizar mantenimiento a los equipos del area. Implementar mejoras.",
+            "description": "Gestionar, organizar y ejecutar muestreos. Realizar mantenimiento a los equipos del área. Implementar mejoras.",
             "date": "2017 - 2020"
         },
         {
             "icon": "briefcase-business",
             "title": "INCA Empresa Junior",
             "subtitle": "Representante de proyecto",
-            "description": "Controlar e implementar protocolos. Dar seguimiento a los proyectos de la empresa. Realizar consultorias.",
+            "description": "Controlar e implementar protocolos. Dar seguimiento a los proyectos de la empresa. Realizar consultorías.",
             "date": "2017 - 2020"
         }
     ],
@@ -96,7 +96,7 @@
             "icon": "arrow-right-left",
             "title": "Carrera de caballos",
             "subtitle": "Carrera utilizando Multithreads en Java",
-            "description": "Es un proyecto realizado para introduccion en el uso de MultiThreads de Java. Consiste en una carrera en donde cada caballos funciona en un Thread distinto y utilizan algunos componentes en comun como aceleradores o pozos.",
+            "description": "Es un proyecto realizado utilizando de MultiThreads de Java. Consiste en una carrera en donde cada caballos funciona en un Thread distinto y utilizan algunos componentes en comun como aceleradores o pozos.",
             "technologies": [
                 {
                     "icon": "devicon-java-plain",
@@ -155,9 +155,9 @@
         },
         {
             "icon": "credit-card",
-            "title": "Modulo de pagos",
-            "subtitle": "Implementacion de microservicios con Spring para generar un modulo de pagos",
-            "description": "Se aplican distintas herramientas para el manejo de microservicios con spring: Gateway para el manejo de request, Oauth para la authenticacion, Eureka para el registro integrado.",
+            "title": "Módulo de pagos",
+            "subtitle": "Implementacion de microservicios con Spring para generar un módulo de pagos",
+            "description": "Se aplican distintas herramientas para el manejo de microservicios con spring: Gateway para el manejo de request, Oauth para la autenticación, Eureka para el registro integrado.",
             "technologies": [
                 {
                     "icon": "devicon-java-plain",
@@ -192,14 +192,20 @@
             "icon": "graduation-cap",
             "title": "Ingeniero Industrial",
             "subtitle": "Universidad Nacional de Cuyo",
-            "description": "Pensamiento critico, Resolucion de problemas, Gestion de personas, Gestion de proyectos."
+            "description": "Pensamiento critico, Resolución de problemas, Gestión de personas, Gestión de proyectos."
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "",
-            "description": "",
+            "image": "/medalla.jpg",
+            "title": "Olímpiadas",
+            "description": "Participación en varias oportunidades de Olímpiadas informáticas y matemáticas. Obteniendo en el primer puesto de nivel 1 en una oportunidad. ",
+            "url": ""
+        },
+        {
+            "image": "/pelota.jpg",
+            "title": "Jugador de Waterpolo",
+            "description": "Durante 12 años participa de un equipo de waterpolo",
             "url": ""
         }
     ]
