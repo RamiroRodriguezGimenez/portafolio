@@ -1,128 +1,206 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Ramiro Rodriguez | Portafolio",
+    "description": "Soy Ramiro, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Ramiro Rodriguez",
+    "skill": "Programador backend",
+    "location": "Argentina",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "ramirorodriguezgimenez@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/RamiroRodriguezGimenez",
+        "likedin": "https://www.linkedin.com/in/ramiro-adrian-rodriguez-gimenez/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Desarrollador con más de 2 años de experiencia en programación. Durante los últimos años, me he destacado trabajando con Java y he ampliado mi experiencia con tecnologías como JavaScript, Node.js, React, AWS y Spring. Mi enfoque se centra en la resolución de problemas y me siento motivado por los desafíos que surgen en el mundo del desarrollo de software. Mi habilidad para aprender rápidamente y mi orientación hacia soluciones efectivas me han permitido destacarme en diversos proyectos.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-spring-plain",
+            "name": "Spring"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-nodejs-plain",
+            "name": "Node.js"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-mongodb-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-amazonwebservices-plain",
+            "name": "AWS"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Accenture",
+            "subtitle": "Programador backend",
+            "description": "Desarrollo de softaware. Resolucion de bugs. Soporte a compañeros. Colaboracion con el diseño",
+            "date": "2022 - Actualidad"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "terminal",
+            "title": "Innovis Tec.",
+            "subtitle": "Team Lead",
+            "description": "Liderar un equipo de desarrollo. Crear historias de usuario. Desarrollar. Dar soporte a todo el equipo.",
+            "date": "2023 - 2024"
+        },
+        {
+            "icon": "warehouse",
+            "title": "Hawaii",
+            "subtitle": "Supervisor de logistica",
+            "description": "Supervisor de logistica en importante distribuidora. Idear procesos en funcion de las normas. Supervisor tanto de los procesos de deposito como de entrega.",
+            "date": "2021 - 2022"
+        },
+        {
+            "icon": "warehouse",
+            "title": "Farmacias del Puente",
+            "subtitle": "Supervisor de logistica",
+            "description": "Supervisor de logistica en una cadena de farmacias. Crear procesos para la gestion de stock. Generar informes que permitan encontrar puntos de mejora. Proponer y llevar a cavo mejoras en los procesos.",
+            "date": "2020 - 2021"
+        },
+        {
+            "icon": "flask-round",
+            "title": "Laboratorio de Analisis Instrumental -Universidad Nacional de Cuyo",
+            "subtitle": "Responsable de Muestreo",
+            "description": "Gestionar, organizar y ejecutar muestreos. Realizar mantenimiento a los equipos del area. Implementar mejoras.",
+            "date": "2017 - 2020"
+        },
+        {
+            "icon": "briefcase-business",
+            "title": "INCA Empresa Junior",
+            "subtitle": "Representante de proyecto",
+            "description": "Controlar e implementar protocolos. Dar seguimiento a los proyectos de la empresa. Realizar consultorias.",
+            "date": "2017 - 2020"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "arrow-right-left",
+            "title": "Carrera de caballos",
+            "subtitle": "Carrera utilizando Multithreads en Java",
+            "description": "Es un proyecto realizado para introduccion en el uso de MultiThreads de Java. Consiste en una carrera en donde cada caballos funciona en un Thread distinto y utilizan algunos componentes en comun como aceleradores o pozos.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/carera_caballos.jpg",
+            "url": "https://github.com/RamiroRodriguezGimenez/horse-race",
+            "github": "https://github.com/RamiroRodriguezGimenez/horse-race"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "message-circle-question",
+            "title": "Chat",
+            "subtitle": "Chat con persistencia",
+            "description": "Modelo simple de chat que resonde preguntas preconfiguradas. Se utiliza JPA para la persistencia, modelado y consulta de datos.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-plain",
+                    "name": "MySQL"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/base_de_datos.jpg",
+            "url": "https://github.com/RamiroRodriguezGimenez/chatgpt",
+            "github": "https://github.com/RamiroRodriguezGimenez/chatgpt"
+        },
+        {
+            "icon": "credit-card",
+            "title": "Homebanking",
+            "subtitle": "Trabajo colaborativo emulando un homebanking.",
+            "description": "Trabajo en equipo que permite realizar consultas, creacion de cuentas y tarjetas de un banco.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-azuresqldatabase-plain",
+                    "name": "H2 Database"
+                }
+            ],
+            "image": "/credit_card.jpg",
+            "url": "https://github.com/RamiroRodriguezGimenez/homebanking",
+            "github": "https://github.com/RamiroRodriguezGimenez/homebanking"
+        },
+        {
+            "icon": "credit-card",
+            "title": "Modulo de pagos",
+            "subtitle": "Implementacion de microservicios con Spring para generar un modulo de pagos",
+            "description": "Se aplican distintas herramientas para el manejo de microservicios con spring: Gateway para el manejo de request, Oauth para la authenticacion, Eureka para el registro integrado.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-plain",
+                    "name": "MySQL"
+                },
+                {
+                    "icon": "devicon-oauth-plain",
+                    "name": "OAuth"
+                }
+            ],
+            "image": "/microservicio.jpg",
+            "url": "https://github.com/RamiroRodriguezGimenez/Modulo-de-pagos-Api-Gateway",
+            "github": "https://github.com/RamiroRodriguezGimenez/Modulo-de-pagos-Api-Gateway"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "school",
+            "title": "Desarrollador FullStack",
+            "subtitle": "Egg Academy",
+            "description": "Java, JavaScript, Spring, MySQL, POO, HTML, CSS."
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Ingeniero Industrial",
+            "subtitle": "Universidad Nacional de Cuyo",
+            "description": "Pensamiento critico, Resolucion de problemas, Gestion de personas, Gestion de proyectos."
         }
     ],
     "extras": [
         {
             "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "title": "",
+            "description": "",
+            "url": ""
         }
     ]
 }
